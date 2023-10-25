@@ -1,0 +1,7 @@
+{
+  "name": "carteleraCine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
