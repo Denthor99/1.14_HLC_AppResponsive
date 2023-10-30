@@ -9,7 +9,7 @@ export class HomePage {
   movies: any;
 
   constructor(private httpClient:HttpClient) {
-    this.movies = this.httpClient.get();
+    this.movies = this.httpClient.get('assets/peliculas.json');
   }
 
 }

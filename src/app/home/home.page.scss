@@ -25,3 +25,11 @@
 #container a {
   text-decoration: none;
 }
+.nota-critica{
+  color: blue;
+}
+
+/* Si la nota de la critica es menor a 5, se muestra un valor distinto */
+.nota-baja {
+  color: red;
+}

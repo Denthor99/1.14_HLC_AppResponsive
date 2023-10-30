@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Hermana muerte",
+    "genero": ["Terror","Religión","Drama"],
+    "director": "Paco Plaza",
+    "actores": ["Aria Bedmar", "Almudena Amor"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 5.6,
+    "poster": "hermanaMuerte.jpg"
+  },
+  {
+    "nombre": "Trolls 3",
+    "genero": ["Animación","Comedia"],
+    "director": "Tim Heitz",
+    "actores": ["Justin Timberlake", "Anna Kendrick"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 5.6,
+    "poster": "trolls3.jpg"
+  },
+  {
+    "nombre": "El chico y la garza",
+    "genero": ["Animación","Fantástico","Drama"],
+    "director": "Hayao Miyazaki",
+    "actores": ["Masaki Suda", "Takuya Kimura"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 7.4,
+    "poster": "chicoGarza.jpg"
+  },
+  {
+    "nombre": "Hypnotic",
+    "genero": ["Thriller","Acción","Intriga"],
+    "director": "Robert Rodríguez",
+    "actores": ["Ben Affleck", "Alice Braga"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 4.5,
+    "poster": "hypnotic.jpg"
+  },
+  {
+    "nombre": "The Killer",
+    "genero": ["Thriller","Crimen","Drama"],
+    "director": "David Fincher",
+    "actores": ["Michael Fassbender", "Tilda Swinton"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 6.9,
+    "poster": "theKiller.jpeg"
+  },
+  {
+    "nombre": "Alimañas",
+    "genero": ["Comedia","Comedia Negra"],
+    "director": "Jordi Sánchez",
+    "actores": ["Jordi Sánchez", "Carlos Areces"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 5.1,
+    "poster": "alimanas.jpg"
+  },
+  {
+    "nombre": "El Exorcista",
+    "genero": ["Terror","Sobrenatural"],
+    "director": "William Friedkin",
+    "actores": ["Linda Blair", "Jason Miller"],
+    "fecha_estreno": "2023-10-27 (Reestreno)",
+    "nota_critica": 7.7,
+    "poster": "elExorcista.jpg"
+  },
+  {
+    "nombre": "Dumb Money",
+    "genero": ["Comedia","Drama"],
+    "director": "Craig Gillespie",
+    "actores": ["Paul Dano", "Pete Davidson"],
+    "fecha_estreno": "2023-10-27",
+    "nota_critica": 6.3,
+    "poster": "dumbMoney.jpg"
+  }
+]
