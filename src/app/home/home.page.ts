@@ -9,7 +9,7 @@ export class HomePage {
   movies: any;
 
   constructor(private httpClient:HttpClient) {
-    this.movies = this.httpClient.get('assets/peliculas.json');
+    this.movies = this.httpClient.get('https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/peliculas.json');
   }
 
 }

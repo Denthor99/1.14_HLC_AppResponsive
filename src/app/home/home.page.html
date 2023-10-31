@@ -10,7 +10,7 @@
       <ion-col *ngFor="let movie of movies | async" size-xl="2" size-lg="2" size-md="4" size-sm="6" size-xs="12">
         <ion-card>
           <ion-card-content>
-            <img [src]="'assets/posters/' + movie.poster" />
+            <img [src]= "movie.poster" />
             <h1><b>{{movie.nombre}}</b></h1>
             <h2><b>{{movie.director}}</b></h2>
             <h3><b>{{movie.actores}}</b></h3>
