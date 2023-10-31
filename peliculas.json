@@ -15,7 +15,7 @@
     "actores": ["Justin Timberlake", "Anna Kendrick"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.6,
-    "poster": "src/assets/posters/trolls3.jpg"
+    "poster": "https://github.com/Denthor99/1.14_HLC_AppResponsive/blob/master/src/assets/posters/trolls3.jpg"
   },
   {
     "nombre": "El chico y la garza",
