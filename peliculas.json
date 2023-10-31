@@ -6,7 +6,7 @@
     "actores": ["Aria Bedmar", "Almudena Amor"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.6,
-    "poster": "/src/assets/posters/hermanaMuerte.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/hermanaMuerte.jpg"
   },
   {
     "nombre": "Trolls 3",
@@ -15,7 +15,7 @@
     "actores": ["Justin Timberlake", "Anna Kendrick"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.6,
-    "poster": "https://github.com/Denthor99/1.14_HLC_AppResponsive/blob/master/src/assets/posters/trolls3.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/trolls3.jpg"
   },
   {
     "nombre": "El chico y la garza",
@@ -24,7 +24,7 @@
     "actores": ["Masaki Suda", "Takuya Kimura"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 7.4,
-    "poster": "src/assets/posters/chicoGarza.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/chicoGarza.jpg"
   },
   {
     "nombre": "Hypnotic",
@@ -33,7 +33,7 @@
     "actores": ["Ben Affleck", "Alice Braga"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 4.5,
-    "poster": "src/assets/posters/hypnotic.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/hypnotic.jpg"
   },
   {
     "nombre": "The Killer",
@@ -42,7 +42,7 @@
     "actores": ["Michael Fassbender", "Tilda Swinton"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 6.9,
-    "poster": "src/assets/posters/theKiller.jpeg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/theKiller.jpeg"
   },
   {
     "nombre": "Alimañas",
@@ -51,7 +51,7 @@
     "actores": ["Jordi Sánchez", "Carlos Areces"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.1,
-    "poster": "src/assets/posters/alimanas.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/alimanas.jpg"
   },
   {
     "nombre": "El Exorcista",
@@ -60,7 +60,7 @@
     "actores": ["Linda Blair", "Jason Miller"],
     "fecha_estreno": "2023-10-27 (Reestreno)",
     "nota_critica": 7.7,
-    "poster": "src/assets/posters/elExorcista.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/elExorcista.jpg"
   },
   {
     "nombre": "Dumb Money",
@@ -69,6 +69,7 @@
     "actores": ["Paul Dano", "Pete Davidson"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 6.3,
-    "poster": "src/assets/posters/dumbMoney.jpg"
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/dumbMoney.jpg"
   }
 ]
+
