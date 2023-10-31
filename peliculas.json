@@ -6,7 +6,7 @@
     "actores": ["Aria Bedmar", "Almudena Amor"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.6,
-    "poster": "posters/hermanaMuerte.jpg"
+    "poster": "src/assets/posters/hermanaMuerte.jpg"
   },
   {
     "nombre": "Trolls 3",
@@ -15,7 +15,7 @@
     "actores": ["Justin Timberlake", "Anna Kendrick"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.6,
-    "poster": "posters/trolls3.jpg"
+    "poster": "src/assets/posters/trolls3.jpg"
   },
   {
     "nombre": "El chico y la garza",
@@ -24,7 +24,7 @@
     "actores": ["Masaki Suda", "Takuya Kimura"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 7.4,
-    "poster": "posters/chicoGarza.jpg"
+    "poster": "src/assets/posters/chicoGarza.jpg"
   },
   {
     "nombre": "Hypnotic",
@@ -33,7 +33,7 @@
     "actores": ["Ben Affleck", "Alice Braga"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 4.5,
-    "poster": "posters/hypnotic.jpg"
+    "poster": "src/assets/posters/hypnotic.jpg"
   },
   {
     "nombre": "The Killer",
@@ -42,7 +42,7 @@
     "actores": ["Michael Fassbender", "Tilda Swinton"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 6.9,
-    "poster": "posters/theKiller.jpeg"
+    "poster": "src/assets/posters/theKiller.jpeg"
   },
   {
     "nombre": "Alimañas",
@@ -51,7 +51,7 @@
     "actores": ["Jordi Sánchez", "Carlos Areces"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 5.1,
-    "poster": "posters/alimanas.jpg"
+    "poster": "src/assets/posters/alimanas.jpg"
   },
   {
     "nombre": "El Exorcista",
@@ -60,7 +60,7 @@
     "actores": ["Linda Blair", "Jason Miller"],
     "fecha_estreno": "2023-10-27 (Reestreno)",
     "nota_critica": 7.7,
-    "poster": "posters/elExorcista.jpg"
+    "poster": "src/assets/posters/elExorcista.jpg"
   },
   {
     "nombre": "Dumb Money",
@@ -69,6 +69,6 @@
     "actores": ["Paul Dano", "Pete Davidson"],
     "fecha_estreno": "2023-10-27",
     "nota_critica": 6.3,
-    "poster": "posters/dumbMoney.jpg"
+    "poster": "src/assets/posters/dumbMoney.jpg"
   }
 ]
