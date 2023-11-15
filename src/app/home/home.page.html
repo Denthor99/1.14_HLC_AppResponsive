@@ -15,7 +15,7 @@
             <h2><b>{{movie.director}}</b></h2>
             <h3><b>{{movie.actores}}</b></h3>
             <p>{{movie.genero}}</p>
-            <div [ngClass]="{'nota-critica': true, 'nota-baja': movie.nota_critica < 5}">Nota de la Crítica: {{movie.nota_critica}}</div>
+            <div>Nota de la Crítica: <strong [ngClass]="{'nota-critica': true, 'nota-baja': movie.nota_critica < 5}">{{movie.nota_critica}}</strong></div>
           </ion-card-content>
         </ion-card>
       </ion-col>
