@@ -70,6 +70,123 @@
     "fecha_estreno": "2023-10-27",
     "nota_critica": 6.3,
     "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/dumbMoney.jpg"
+  },
+  {
+    "nombre": "Wish: El poder de los deseos",
+    "genero": ["Animación","Fantasía"],
+    "director": "Chris Buck",
+    "actores": ["Ariana DeBose", "Chris Pine"],
+    "fecha_estreno": "2023-11-14",
+    "nota_critica": 5.6,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/wish.jpg"
+  },
+  {
+    "nombre": "Black Friday",
+    "genero": ["Terror","Slasher"],
+    "director": "Eli Roth",
+    "actores": ["Patrick Dempsey", "Addison Rae"],
+    "fecha_estreno": "2023-11-14",
+    "nota_critica": 6.1,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/blackFriday.jpg"
+  },
+  {
+    "nombre": "Aquaman y el reino perdido",
+    "genero": ["Acción","Superhéroes"],
+    "director": "James Wan",
+    "actores": ["Jason Momoa", "Patrick Wilson"],
+    "fecha_estreno": "2023-12-22",
+    "nota_critica": 10,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/aquaman2.jpg"
+  },
+  {
+     "nombre": "Chicken Run: Amanecer de los nuggets",
+    "genero": ["Animación","Comedia"],
+    "director": "Sam Fell",
+    "actores": ["Thandiwe Newton", "Zachary Levi"],
+    "fecha_estreno": "2023-12-15",
+    "nota_critica": 6.2,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/chickenRun2.jpg"
+  },
+  {
+     "nombre": "Digimon Adventure 02: The Beginning",
+    "genero": ["Animación","Aventuras"],
+    "director": "Tomohisa Taguchi",
+    "actores": ["Fukujūrō Katayama", "Ayaka Asai"],
+    "fecha_estreno": "2023-12-1",
+    "nota_critica": 5.8,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/digimon_adventure_02_the_beginning.jpg"
+  },
+  {
+     "nombre": "Five Nights at Freddy's",
+    "genero": ["Terror","Fantástico"],
+    "director": "Emma Tammi",
+    "actores": ["Josh Hutcherson", "Elizabeth Lail"],
+    "fecha_estreno": "2023-10-30",
+    "nota_critica": 4.7,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/five_nights_at_freddy.jpg"
+  },
+  {
+     "nombre": "Godzilla: Minus One",
+    "genero": ["Fantástico"],
+    "director": "Takashi Yamazaki",
+    "actores": ["Ryunosuke Kamiki", "Minami Hamabe"],
+    "fecha_estreno": "2023-12-7",
+    "nota_critica": 7.9,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/godzillaMinusOne.jpg"
+  },
+  {
+     "nombre": "Mean Girls",
+    "genero": ["Musical","Comedia"],
+    "director": "Samantha Jayne",
+    "actores": ["Reneé Rapp", "Tina Fey"],
+    "fecha_estreno": "2023-12-27",
+    "nota_critica": 5.2,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/meanGirls.jpg"
+  },
+  {
+     "nombre": "Migration",
+    "genero": ["Animación","Comedia"],
+    "director": "Benjamin Renner",
+    "actores": ["Reneé Rapp", "Danny DeVito"],
+    "fecha_estreno": "2023-12-27",
+    "nota_critica": 4.1,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/migration.jpg"
+  },
+   {
+     "nombre": "Wonka",
+    "genero": ["Musical","Comedia"],
+    "director": "Paul King",
+    "actores": ["Timothée Chalamet", "Olivia Colman"],
+    "fecha_estreno": "2023-12-7",
+    "nota_critica": 6.8,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/wonka.jpg"
+  },
+   {
+     "nombre": "La sociedad de la nieve",
+    "genero": ["Aventura","Drama"],
+    "director": "J.A Bayona",
+    "actores": ["Enzo Vogrincic", "Agustín Pardella"],
+    "fecha_estreno": "2023-12-15",
+    "nota_critica": 7.4,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/sociedadNieve.jpg"
+  },
+  {
+     "nombre": "Noche de paz",
+    "genero": ["Acción","Navidad"],
+    "director": "John Woo",
+    "actores": ["Joel Kinnaman", "Kid Cudi"],
+    "fecha_estreno": "2023-12-7",
+    "nota_critica": 5.4,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/nocheDePaz.jpg"
+  },
+  {
+     "nombre": "Napoleón",
+    "genero": ["Drama","Historico"],
+    "director": "Ridley Scott",
+    "actores": ["Joaquin Phoenix", "Vanessa Kirby"],
+    "fecha_estreno": "2023-11-24",
+    "nota_critica": 6.0,
+    "poster": "https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/src/assets/posters/napoleon.jpg"
   }
 ]
 
