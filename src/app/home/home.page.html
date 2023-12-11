@@ -5,20 +5,24 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
+  <ion-input [(ngModel)]="filtro" placeholder="Buscar película">
+  </ion-input>
   <ion-grid>
     <ion-row>
-      <ion-col *ngFor="let movie of movies | async" size-xl="2" size-lg="2" size-md="4" size-sm="6" size-xs="12">
-        <ion-card>
-          <ion-card-content>
-            <img [src]= "movie.poster" />
-            <h1><b>{{movie.nombre}}</b></h1>
-            <h2><b>{{movie.director}}</b></h2>
-            <h3><b>{{movie.actores}}</b></h3>
-            <p>{{movie.genero}}</p>
-            <div>Nota de la Crítica: <strong [ngClass]="{'nota-critica': true, 'nota-baja': movie.nota_critica < 5}">{{movie.nota_critica}}</strong></div>
-          </ion-card-content>
-        </ion-card>
-      </ion-col>
+      <ng-container *ngFor="let movie of movies | async">
+        <ion-col *ngIf="filtro === '' || movie.nombre.includes(filtro) || movie.director.includes(filtro) || movie.actores.join(',').includes(filtro) || movie.genero.join(',').includes(filtro) || movie.nota_critica.toString().includes(filtro)" size-xl="2" size-lg="2" size-md="4" size-sm="6" size-xs="12">
+          <ion-card >
+            <ion-card-content>
+              <img [src]= "movie.poster" />
+              <h1 class="nombrePeli"><b>{{movie.nombre}}</b></h1>
+              <h2 class="directorPeli"><b>{{movie.director}}</b></h2>
+              <h3 class="actoresPeli"><b>{{movie.actores}}</b></h3>
+              <p class="generoPeli">{{movie.genero}}</p>
+              <div class="notaPeli">Nota de la Crítica: <strong [ngClass]="{'nota-critica': true, 'nota-baja': movie.nota_critica < 5}">{{movie.nota_critica}}</strong></div>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ng-container> 
     </ion-row>
   </ion-grid>
 </ion-content>

@@ -7,6 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class HomePage {
   movies: any;
+  filtro:string ='';
 
   constructor(private httpClient:HttpClient) {
     this.movies = this.httpClient.get('https://raw.githubusercontent.com/Denthor99/1.14_HLC_AppResponsive/master/peliculas.json');
