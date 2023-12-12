@@ -25,6 +25,9 @@
 #container a {
   text-decoration: none;
 }
+.tituloSitio{
+  text-align: center;
+}
 .nota-critica{
   color: blue;
 }
@@ -32,4 +35,56 @@
 /* Si la nota de la critica es menor a 5, se muestra un valor distinto */
 .nota-baja {
   color: red;
+}
+
+// Estilos para pantallas pequeñas
+@media (max-width: 767px) {
+  ion-card {
+    color: #252525;
+    background-color: #ebebeb;
+    .posterPeli{
+      display: block;
+      margin: 0 auto;
+      padding-bottom: 10px;
+    }
+  }
+  
+  ion-content {
+    --ion-background-color: #c7c7c7;
+  }
+  .actoresPeli{
+    display: none;
+  }
+}
+
+// Estilos para pantallas medianas
+@media (min-width: 768px) and (max-width: 991px) {
+  ion-card {
+    color: #1a1919;
+    background-color: #5298c7;
+  }
+
+  ion-content {
+    --ion-background-color: #2186c9;
+  }
+}
+
+// Estilos para pantallas grandes
+@media (min-width: 992px) {
+  ion-card {
+    color: #000000;
+  }
+
+  ion-content {
+    --ion-background-color: #ffffff;
+  }
+}
+
+// Definimos el estilo para la orientacion de la pantalla
+@media (orientation:portrait){
+  ion-card{
+    .notaPeli{
+      display: none;
+    }
+  }
 }

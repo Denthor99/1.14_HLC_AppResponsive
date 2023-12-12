@@ -1,6 +1,6 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title> Cartelera de Cine </ion-title>
+    <ion-title class="tituloSitio"> Cartelera de Cine </ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -13,11 +13,11 @@
         <ion-col *ngIf="filtro === '' || movie.nombre.includes(filtro) || movie.director.includes(filtro) || movie.actores.join(',').includes(filtro) || movie.genero.join(',').includes(filtro) || movie.nota_critica.toString().includes(filtro)" size-xl="2" size-lg="2" size-md="4" size-sm="6" size-xs="12">
           <ion-card >
             <ion-card-content>
-              <img [src]= "movie.poster" />
+              <img class="posterPeli" [src]= "movie.poster" />
               <h1 class="nombrePeli"><b>{{movie.nombre}}</b></h1>
               <h2 class="directorPeli"><b>{{movie.director}}</b></h2>
               <h3 class="actoresPeli"><b>{{movie.actores}}</b></h3>
-              <p class="generoPeli">{{movie.genero}}</p>
+              <h3 class="generoPeli"><b>{{movie.genero}}</b></h3>
               <div class="notaPeli">Nota de la Crítica: <strong [ngClass]="{'nota-critica': true, 'nota-baja': movie.nota_critica < 5}">{{movie.nota_critica}}</strong></div>
             </ion-card-content>
           </ion-card>
